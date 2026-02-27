@@ -5,4 +5,9 @@ the best ways are:
 -code
 -repeat
 ThankYou
+<<<<<<< Updated upstream
 another change
+=======
+## summary
+its a nice repository more changes maded
+>>>>>>> Stashed changes
